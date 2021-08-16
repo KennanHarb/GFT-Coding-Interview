@@ -1,7 +1,5 @@
 package gft;
 
-public class Pessoa {
-    public String giria(){
-        return "";
-    }
+public abstract class Pessoa {
+    public abstract String giria();
 }
